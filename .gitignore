@@ -1,0 +1,9 @@
+.idea/
+*.iml
+
+target/
+.bsp/
+boot/
+lib_managed/
+src_managed/
+project/plugins/project/
